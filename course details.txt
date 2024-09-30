@@ -1,0 +1,7 @@
+1-understanding gitops
+2-introdcution to argo cd
+3-keyfeatures of argo cd
+4-argo cd architeture
+5-Advntages of argocd
+6-Why GitOps with Argo CD?
+7-why you might choose Argo CD
